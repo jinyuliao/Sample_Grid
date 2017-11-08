@@ -16,7 +16,6 @@ Install
 Note
 ----
 
-* This project contains two maps, SquareGridMap and HexagonGridMap
 * Some custom class in "Blueprints/Grid" to demonstrate how to customize Grid plugin(pathfinding logic, special move, GridInfo, etc)
 
 .. _Grid: https://github.com/jinyuliao/Grid
