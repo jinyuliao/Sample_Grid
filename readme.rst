@@ -3,7 +3,7 @@ Sample_Grid
 
 A sample project for my ue4 Grid_ plugin
 
-.. image:: https://github.com/jinyuliao/Grid/blob/master/Resources/grid.png?raw=true
+.. image:: https://github.com/jinyuliao/Grid/blob/master/docs/images/grid.png?raw=true
 
 Install
 -------
